@@ -1,0 +1,21 @@
+{
+	"params":{
+	"local_server":"True",
+    "local_uri": "mysql://root:@localhost/flask_database",
+    "prod_uri": "mysql://root:@localhost/flask_database",
+    "fb_url": "https://facebook.com/flask_database",
+    "tw_url": "https://twitter.com/flask_database",
+    "gh_url": "https://github.com/flask_database",
+    "blog_name": "Welcome to Code In Flask",
+    "tag_line": "Starting Flask development Now ",
+    "gmail-user": "muhammad.ali148@amalacademy.org",
+    "gmail-password": "Muhammadali583",
+    "about_text": "Hi my name is Muhammad Ali and i create your website",
+    "no_of_posts": 3,
+    "login_image": "login.svg",
+    "admin_user": "Ali",
+    "admin_password": "ali123",
+    "upload_location": "C:\\Users\\Muhammad Ali\\PycharmProjects\\flask_project\\static"
+    
+	}
+}
